@@ -6,6 +6,9 @@
 <!--
 **cbnuLeehyunwoo/cbnuLeehyunwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=henow123)](https://solved.ac/henow123/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
