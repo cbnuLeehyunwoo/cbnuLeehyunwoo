@@ -21,12 +21,14 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ github.token }}  # github.token 사용
+
       - name: Debug Git Info
         run: |
           git config --list
           git remote -v
           git branch -a
           git status
-
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}  # github.token 사용
