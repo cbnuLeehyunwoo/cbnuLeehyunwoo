@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm [Your Name]
+### 👋 Hi there! I'm [이현우/Lee Hyun Woo]
 
 I'm a computer science undergrad at **Chungbuk National University** in South Korea 🇰🇷  
 Currently exploring the worlds of **Backend Development**, **Artificial Intelligence**, and **Algorithms**.
