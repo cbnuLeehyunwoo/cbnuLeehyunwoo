@@ -27,6 +27,7 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 
 ---
 ![Trophy](https://github-profile-trophy.vercel.app/?username=cbnuLeehyunwoo&theme=onestar&no-frame=true&margin-w=4&margin-h=4)
+![snake gif](https://github.com/cbnuLeehyunwoo/cbnuLeehyunwoo/blob/output/github-contribution-grid-snake.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cbnuLeehyunwoo&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=cbnuLeehyunwoo&theme=tokyonight)
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/henow123" width="600" height="300"/></a>
