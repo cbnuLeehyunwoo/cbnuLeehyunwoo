@@ -9,7 +9,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # 전체 히스토리 가져오기
+
+      - name: Set up Git credentials
+        run: |
+          git config --global user.name "cbnuLeehyunwoo"
+          git config --global user.email "henow123@naver.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: cbnuLeehyunwoo
           outputs: |
