@@ -21,5 +21,12 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+      - name: Debug Git Info
+        run: |
+          git config --list
+          git remote -v
+          git branch -a
+          git status
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
