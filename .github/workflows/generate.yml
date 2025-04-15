@@ -16,13 +16,19 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Checkout output branch
+        run: |
+          git checkout -b output || git checkout output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ github.token }}  # github.token 사용
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Debug Git Info
         run: |
@@ -31,4 +37,4 @@ jobs:
           git branch -a
           git status
         env:
-          GITHUB_TOKEN: ${{ github.token }}  # github.token 사용
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
