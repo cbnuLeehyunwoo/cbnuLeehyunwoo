@@ -3,8 +3,8 @@
 I'm a computer science undergrad at **Chungbuk National University** in South Korea 🇰🇷  
 Currently exploring the worlds of **Backend Development**, **Artificial Intelligence**, and **Algorithms**.
 
-- 🧠 I enjoy solving problems and learning how things work.  
-- 🎯 Goals: Build side projects, contribute to open source, and find my passion in tech.  
+- 🔍 I’m passionate about problem-solving and understanding the inner workings of systems.
+- 🎯 Goals: Build meaningful side projects, contribute to open-source communities, and find my true passion in tech.
 - 🌱 Always learning, always curious.  
 
 ---
