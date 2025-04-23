@@ -12,7 +12,11 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 - 🌱 Always learning, always curious.  
 
 ---
+### 🎓 Experience & Awards
 
+- **Undergraduate Student** in **Computer Science** at **Chungbuk National University** (2021.03~ )
+- No awards yet, but striving to earn them 🏆.
+---
 ### 📬 Get in Touch	
 
 [![Email](https://img.shields.io/badge/Gmail-henow123@chungbuk.ac.kr-D93025?style=flat&logo=gmail&logoColor=white)](mailto:henow123@chungbuk.ac.kr)
@@ -34,11 +38,16 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 #### ⚙️ Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-#### 🛠️ Tools
+#### 🧪 Environment & Tools
+![Linux](https://img.shields.io/badge/Linux%20(Ubuntu)-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 
 #### 📚 Currently Learning / Exploring
 
@@ -48,7 +57,7 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 
 ---
 ### 🧩 Problem Solving
