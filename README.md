@@ -11,7 +11,8 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 
 ### 📬 Get in Touch	
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henow123@chungbuk.ac.kr) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/2hynwoo_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henow123@chungbuk.ac.kr) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/2hynwoo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%B4%ED%98%84%EC%9A%B0-17a930361/)
+
 
 ---
 
@@ -46,10 +47,7 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 
 I enjoy competitive programming and solving algorithmic problems to improve my logical thinking and coding skills!
 
----
-
-[![Solved.ac Mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=henow123)](https://solved.ac/henow123)  
-[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=henow123)](https://codeforces.com/profile/henow123)  
+[![Solved.ac Mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=henow123)](https://solved.ac/henow123) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=henow123)](https://codeforces.com/profile/henow123)  
 ![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=henow123&theme=warm) [![Solved.ac Full](http://mazassumnida.wtf/api/v2/generate_badge?boj=henow123)](https://solved.ac/profile/henow123)
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/henow123" width="50%" /></a>
