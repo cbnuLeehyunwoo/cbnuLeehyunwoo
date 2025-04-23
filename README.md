@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:D8BFD8,50:FFB6C1,100:ADD8E6&fontColor=2F4F4F&height=300&section=header&text=👋%20Welcome%20to%20Lee%20Hyun%20Woo's%20GitHub!&fontSize=40&animation=scaleIn)
+
+
+
 ### 👋 Hi there! I'm 이현우 / Lee Hyun Woo
 
 I'm a computer science undergrad at **Chungbuk National University** in South Korea 🇰🇷  
