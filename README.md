@@ -55,9 +55,8 @@ I enjoy competitive programming and solving algorithmic problems to improve my l
 
 ---
 
-### 🏆 GitHub Stats & Trophies
+### 🏆 GitHub Stats 
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=cbnuLeehyunwoo&theme=onestar&no-frame=true&margin-w=4&margin-h=4)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cbnuLeehyunwoo&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=cbnuLeehyunwoo&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cbnuLeehyunwoo&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=cbnuLeehyunwoo&theme=tokyonight)  
 ![snake gif](https://github.com/cbnuLeehyunwoo/cbnuLeehyunwoo/blob/output/github-contribution-grid-snake.svg)
