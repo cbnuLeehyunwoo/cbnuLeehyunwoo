@@ -5,9 +5,9 @@
 ### 👋 Hi there! I'm 이현우 / Lee Hyun Woo
 
 I'm a computer science undergrad at **Chungbuk National University** in South Korea 🇰🇷  
-Currently exploring the worlds of **Backend Development**, **Artificial Intelligence**, and **Algorithms**.
+Currently exploring the worlds of **Backend Development**, **Artificial Intelligence**, and **Problem-Solving(Algorithm)**.
 
-- 🔍 I’m passionate about problem-solving and understanding the inner workings of systems.
+- 🔍 I’m passionate about problem-solving!
 - 🎯 Goals: Build meaningful side projects, contribute to open-source communities, and find my true passion in tech.
 - 🌱 Always learning, always curious.  
 
@@ -53,7 +53,7 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 ---
 ### 🧩 Problem Solving
 
-I enjoy competitive programming and solving algorithmic problems to improve my logical thinking and coding skills!
+I enjoy Problem Solving and Competitive Crogramming to improve my logical thinking and coding skills!
 
 [![Solved.ac Mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=henow123)](https://solved.ac/henow123) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=henow123)](https://codeforces.com/profile/henow123)  
 ![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=henow123&theme=warm) [![Solved.ac Full](http://mazassumnida.wtf/api/v2/generate_badge?boj=henow123)](https://solved.ac/profile/henow123)
