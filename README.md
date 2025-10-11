@@ -5,17 +5,22 @@
 ### 👋 Hi there! I'm 이현우 / Lee Hyun Woo
 
 I'm a computer science undergrad at **Chungbuk National University** in South Korea 🇰🇷  
-Currently exploring the worlds of **Backend Development**, **Artificial Intelligence**, and **Problem-Solving(Algorithm)**.
-
-- 🔍 I’m passionate about problem-solving!
-- 🎯 Goals: Build meaningful side projects, contribute to open-source communities, and find my true passion in tech.
-- 🌱 Always learning, always curious.  
+Currently exploring the worlds of **App Development**, **Artificial Intelligence**, and **Problem-Solving(Algorithm)**.
 
 ---
-### 🎓 Experience & Awards
+### 🎓 Experiences
 
-- **Undergraduate Student** in **Computer Science** at **Chungbuk National University** (2021.03~ )
-- No awards yet, but striving to earn them 🏆.
+- **Undergraduate Student** in **Computer Science** at **Chungbuk National University** `(2021.03~ )`
+
+---
+### 🏆 Awards
+
+- **Academic Excellence Award**, College of Electrical and Computer Engineering, Chungbuk National University(충북대학교 전자정보대학 **우수 학업상**) `(2025.8)`
+- 충북대학교 2025 직무(기업)분석 경진대회 **장려상** `(2025.9)`
+
+---
+### 🚀 Contributions
+-  [jekyll-admin CI/CD 워크플로우 기여](https://github.com/jekyll/jekyll-admin)
 ---
 ### 📬 Get in Touch	
 
@@ -34,35 +39,38 @@ Currently exploring the worlds of **Backend Development**, **Artificial Intellig
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 #### ⚙️ Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
 #### 🧪 Environment & Tools
 ![Linux](https://img.shields.io/badge/Linux%20(Ubuntu)-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 #### 📚 Currently Learning / Exploring
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat=react&logoColor=%2361DAFB)
 ---
 ### 🧩 Problem Solving
-
-I enjoy Problem Solving and Competitive Crogramming to improve my logical thinking and coding skills!
 
 [![Solved.ac Mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=henow123)](https://solved.ac/henow123) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=henow123)](https://codeforces.com/profile/henow123)  
 ![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=henow123&theme=warm) [![Solved.ac Full](http://mazassumnida.wtf/api/v2/generate_badge?boj=henow123)](https://solved.ac/profile/henow123)
