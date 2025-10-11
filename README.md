@@ -10,13 +10,15 @@ Currently exploring the worlds of **App Development**, **Artificial Intelligence
 ---
 ### 🎓 Experiences
 
-- **Undergraduate Student** in **Computer Science** at **Chungbuk National University** `(2021.03~ )`
+- **Undergraduate Student** in **Computer Science** at **Chungbuk National University** `(2021.03 ~)`
 
 ---
 ### 🏆 Awards
 
-- **Academic Excellence Award**, College of Electrical and Computer Engineering, Chungbuk National University(충북대학교 전자정보대학 **우수 학업상**) `(2025.8)`
-- 충북대학교 2025 직무(기업)분석 경진대회 **장려상** `(2025.9)`
+- **Academic Excellence Award**, College of Electrical and Computer Engineering, Chungbuk National University
+(충북대학교 전자정보대학 **우수 학업상**) `(2025.8)`
+- **Encouragement Award**, 2025 Job & Company Analysis Competition, Chungbuk National University
+(충북대학교 2025 직무(기업)분석 경진대회) **장려상** `(2025.9)`
 
 ---
 ### 🚀 Contributions
@@ -25,7 +27,7 @@ Currently exploring the worlds of **App Development**, **Artificial Intelligence
 ### 📬 Get in Touch	
 
 [![Email](https://img.shields.io/badge/Gmail-henow123@chungbuk.ac.kr-D93025?style=flat&logo=gmail&logoColor=white)](mailto:henow123@chungbuk.ac.kr)
- [![Naver mail](https://img.shields.io/badge/NAVER-henow123%40naver.com-brightgreen?style=flat&logo=naver&logoColor=white)](mailto:henow123@naver.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/2hynwoo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%B4%ED%98%84%EC%9A%B0-17a930361/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cbnuLeehyunwoo) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://join.slack.com/t/test-sae9123/shared_invite/zt-3494gxzxg-3AC93By6ESBrEyRUMmss8Q)  [![Blog](https://img.shields.io/badge/Blog-F5A623?style=flat)](https://my-blog-pink-zeta.vercel.app/)
+ [![Naver mail](https://img.shields.io/badge/NAVER-henow123%40naver.com-brightgreen?style=flat&logo=naver&logoColor=white)](mailto:henow123@naver.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/2hynwoo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%B4%ED%98%84%EC%9A%B0-17a930361/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cbnuLeehyunwoo) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://join.slack.com/t/test-sae9123/shared_invite/zt-3494gxzxg-3AC93By6ESBrEyRUMmss8Q)  [![Blog](https://img.shields.io/badge/Blog-F5A623?style=flat)](https://cbnu-leehyunwoo-vercel.vercel.app/)
 
 ---
 
