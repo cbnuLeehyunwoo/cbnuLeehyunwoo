@@ -5,13 +5,13 @@
 ### 👋 Hi there! I'm 이현우 / Lee Hyun Woo
 
 I'm a computer science undergrad at **Chungbuk National University** in South Korea 🇰🇷  
-Currently exploring the worlds of **App Development**, **Artificial Intelligence**, and **Problem-Solving(Algorithm)**.
+Currently exploring the worlds of **Mobile App Develope(Android)**, and **Problem-Solving(Algorithm)**.
 
 ---
 ### 🎓 Experiences
 
 - **Undergraduate Student** in **Computer Science** at **Chungbuk National University** `(2021.03 ~)`
-
+- **Woowacourse 8th Mobile Android Course** `(2026.02 ~ 2026.10)`
 ---
 ### 🏆 Awards
 
@@ -19,15 +19,15 @@ Currently exploring the worlds of **App Development**, **Artificial Intelligence
 (충북대학교 전자정보대학 **우수 학업상**) `(2025.8)`
 - **Encouragement Award**, 2025 Job & Company Analysis Competition, Chungbuk National University
 (충북대학교 2025 직무(기업)분석 경진대회) **장려상** `(2025.9)`
-
+- **Bronze Award**, Creative Engineering Design Competition: CEDC2025 `(2025.12)`
 ---
 ### 🚀 Contributions
 -  [jekyll-admin CI/CD 워크플로우 기여](https://github.com/jekyll/jekyll-admin)
 ---
 ### 📬 Get in Touch	
 
-[![Email](https://img.shields.io/badge/Gmail-henow123@chungbuk.ac.kr-D93025?style=flat&logo=gmail&logoColor=white)](mailto:henow123@chungbuk.ac.kr)
- [![Naver mail](https://img.shields.io/badge/NAVER-henow123%40naver.com-brightgreen?style=flat&logo=naver&logoColor=white)](mailto:henow123@naver.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/2hynwoo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%B4%ED%98%84%EC%9A%B0-17a930361/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cbnuLeehyunwoo) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://join.slack.com/t/test-sae9123/shared_invite/zt-3494gxzxg-3AC93By6ESBrEyRUMmss8Q)  [![Blog](https://img.shields.io/badge/Blog-F5A623?style=flat)](https://cbnu-leehyunwoo-vercel.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-kirbyliketomato@gmail.com-D93025?style=flat&logo=gmail&logoColor=white)](mailto:kirbyliketomato@gmail.com)
+ [![Naver mail](https://img.shields.io/badge/NAVER-henow123%40naver.com-brightgreen?style=flat&logo=naver&logoColor=white)](mailto:henow123@naver.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/2hynwoo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%B4%ED%98%84%EC%9A%B0-17a930361/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cbnuLeehyunwoo) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://join.slack.com/t/test-sae9123/shared_invite/zt-3494gxzxg-3AC93By6ESBrEyRUMmss8Q)  [![Blog](https://img.shields.io/badge/Blog-F5A623?style=flat)](https://hynwlee.tistory.com/)
 
 ---
 
@@ -42,35 +42,35 @@ Currently exploring the worlds of **App Development**, **Artificial Intelligence
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 #### ⚙️ Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
+
 #### 🧪 Environment & Tools
 ![Linux](https://img.shields.io/badge/Linux%20(Ubuntu)-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+![Postgres](https://img.shields.io/badge/Postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 #### 📚 Currently Learning / Exploring
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat=react&logoColor=%2361DAFB)
+![Ktor](https://img.shields.io/badge/-Ktor-087CFA?style=flat&logo=Ktor&logoColor=white)
+
 ---
 ### 🧩 Problem Solving
 
